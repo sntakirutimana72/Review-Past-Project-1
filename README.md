@@ -1,8 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# microverse-html-css-template
+# Review Past Project - Tribute Page
 
-> A Microverse Github Template for projects built with HTML & CSS only.
+> Review Past Project ~ is a project that re-evaluates _`Tribute Page`_ project by applying best programming practices.
+
+> `Tribute Page` ~ was a webpage that talked about my journey at Microverse before admission.
 
 
 ## Built With
@@ -49,4 +51,4 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Fellow Micronauts
+- Felix ~ Co-Partner on the original project.
